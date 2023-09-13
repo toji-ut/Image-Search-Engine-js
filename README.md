@@ -6,7 +6,7 @@ This is a simple Image Search Engine application that uses Weaviate to perform i
 2. Fetching the schema to ensure the database is up and running.
 3. Creating a schema that contains an image property.
 4. Storing images in the database, each associated with a unique text description.
-5. Querying an image and finding similar images in the database.
+5. Querying an image and finding similar images in the database (img folder in this example).
 6. Saving similar images to the filesystem.
 
 ## Prerequisites
