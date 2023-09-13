@@ -1,0 +1,13 @@
+1. Open docker
+
+2. "export PATH=$PATH:~/.docker/bin" in directory terminal
+
+3. "docker-compose up -d"
+
+4. Make sure the orinigal image is called test.jpeg otherwise code won't work
+
+5. "node app.js" to create the inital schema
+
+6. After schema is created, just use "node index.js"
+
+7. "docker-compose down" to shutdown the whole thing
